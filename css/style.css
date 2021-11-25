@@ -319,7 +319,7 @@ html{
   }
 
   
-  .about-img__container::before {
+  .about-img__container::after {
     content: "";
     position: absolute;
     top: -1.5rem;
@@ -330,6 +330,7 @@ html{
     outline: 0.5rem solid rgb(56, 53, 53);
     
     z-index: -0.9;
+    
     transition: all 1s ease-in-out;
   }
   .about-img__container:hover:before {

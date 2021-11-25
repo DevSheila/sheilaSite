@@ -104,8 +104,8 @@
 /* Full-width conts */
   .cont {
     width: 100%;
-    padding-left: 70px;
-    padding-right: 25px;
+    padding-left: 10px;
+    padding-right: 5px;
   }
 
 /* Make sure that all arrows are pointing leftwards */
