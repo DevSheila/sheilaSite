@@ -1,7 +1,6 @@
 *{
     margin:0;
     padding: 0;
-    background-image: url(../images/food.png) repeat;
     
     /* font-family:'Source Serif Pro'; */
 }
@@ -617,7 +616,7 @@
 
 .projects .project-items .project-content {
   width: 350px;
-  margin: 10px;
+  /* margin: 10px; */
   background: black;
   border-radius: 2px solid white;
   box-shadow: 0px 0px 10px rgba(80, 76, 76, 0.25);
