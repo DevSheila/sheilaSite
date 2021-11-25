@@ -1,12 +1,11 @@
 *{
     margin:0;
     padding: 0;
+    background-image: url(../images/food.png) repeat;
     
     /* font-family:'Source Serif Pro'; */
 }
-html{
-  scroll-behavior: smooth;
-}
+
 
 
 .jumbotron{
